@@ -6,9 +6,10 @@
 
 > #### Feel free to look around at everything I have uploaded
 >
-> - This is for anyone interested about me.
+> - This is for anyone interested about me and wanting a high level overview!
 > - Let me know if there are any questions.
 > - Reach me at - robinsonelijah592@gmail.com
+> - Check out my Linkdln at - https://www.linkedin.com/in/elijahrobinson1/
 > - You can **find your way around** with these links *below*.
 
 - | My Hobbies| [Hobbies](./Hobbies.md) |
