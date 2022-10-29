@@ -9,7 +9,7 @@
 > - This is for anyone interested about me.
 > - Let me know if there are any questions.
 > - Reach me at - robinsonelijah592@gmail.com
-> You can **find your way around** with these links *below*.
+> - You can **find your way around** with these links *below*.
 
 - | My Hobbies| [Hobbies](./Hobbies.md) |
 - | My Education| [Education](./Education.md) |
